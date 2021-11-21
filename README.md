@@ -1,24 +1,23 @@
-# cp109
+# cp109 - AF1
+# Vitor Silva Bueno
+190925 
 
-## Project setup
+## Tela do Projeto
+![Tela básica do projeto](src/assets/Captura.png)
+
+## Instalação do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação com HotReload
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar e gerar o min
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
