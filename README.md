@@ -2,8 +2,11 @@
 # Vitor Silva Bueno
 190925 
 
-## Tela do Projeto
+## Telas do Projeto
 ![Tela básica do projeto](src/assets/Captura.png)
+![Tela de documentação do projeto](src/assets/Documentation.png)
+![Tela de sobre do projeto](src/assets/About.png)
+![Tela de créditos do projeto](src/assets/Credits.png)
 
 ## Instalação do Projeto
 ```
