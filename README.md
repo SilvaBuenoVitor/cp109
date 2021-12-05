@@ -3,6 +3,7 @@
 190925 
 
 ## Telas do Projeto
+Todos os cards são gerados automaticamente antes da criação da tela com nomes aleatórios consumidos de uma API
 ![Tela básica do projeto](src/assets/Captura.png)
 ![Tela de documentação do projeto](src/assets/Documentation.png)
 ![Tela de sobre do projeto](src/assets/About.png)
